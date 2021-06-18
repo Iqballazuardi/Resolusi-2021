@@ -4,3 +4,4 @@
 -Belajar Git&GitHub 
 -Belajar Terminal(abis ini)
 -Bikin Project sendiri
+-Bikin rumah

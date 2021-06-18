@@ -1,0 +1,6 @@
+-Belajar javascript
+-Belajar html
+-Belajar css
+-Belajar Git&GitHub 
+-Belajar Terminal(abis ini)
+-Bikin Project sendiri
